@@ -1,7 +1,4 @@
-# Nyjava
-Nyjava is a discord bot base that supports 🎉 Discord Slash Commands! 🎉
-### I'll see where I go with this, I might update it, I might not. Time will tell.
-For now though, it's free to use for everyone, and if you find a bug, feel free to open an issue on the GitHub [issue page](https://github.com/Nyvil/Nyjava/issues).
+
 
 # Getting started
 ## Nyjava requires a MongoDB database to work. [MongoDB docs](https://docs.mongodb.com/manual/tutorial/getting-started/)
